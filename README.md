@@ -234,7 +234,3 @@ Since, we can hack the F1 score by changing the threshold, I relied on AUC Score
   <img width="500" height="750" src="https://github.com/archd3sai/Instacart-Market-Basket-Analysis/blob/master/Plots/XGBoost%20Feature%20Importance%20Plot.png">
 </p>
 
-
-## Future Work
-
-- Utilize Collaborative filtering to recommend products to a customer. 
